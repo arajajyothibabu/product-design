@@ -49,7 +49,7 @@ Tools used
   - Draft a narrative insight statement
 - Brainstorming
   > Brainstorming is generating ideas to solve a problem.
-  - Have a wellpdefined problem statement
+  - Have a well defined problem statement
   - Set a strict time limit
   - Be really open minded
   - Take a `more is more` approach
